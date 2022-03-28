@@ -10,3 +10,5 @@
 - Music: "City Of Stars" — Ryan Gosling / Emma Stone 
 
 - Model: PaddleGAN Wav2lip
+
+- Video: https://www.youtube.com/watch?v=uSbfXxo26h4
